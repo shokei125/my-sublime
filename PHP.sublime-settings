@@ -1,6 +1,8 @@
 {
 	"extensions":
 	[
-		"ctp"
+		"ctp",
+		"html",
+		"tpl"
 	]
 }

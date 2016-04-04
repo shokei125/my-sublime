@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"1Self",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DocBlockr",
+		"Git",
 		"IMESupport",
 		"Japanize",
 		"JavaScript Snippets",
@@ -15,8 +17,12 @@
 		"Material Theme",
 		"Package Control",
 		"PHP Syntax Checker",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Sublimerge Pro",
 		"TrailingSpaces",
-		"WordpressDev"
+		"WordpressDev",
+		"wpseek.com WordPress Developer Assistant"
 	]
 }
